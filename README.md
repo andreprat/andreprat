@@ -1,8 +1,8 @@
 # About Me
 
 - 👋 Hi, I’m @andreprat
-- 👀 I’m interested in DL/ML, embedded and cloud deployment
-- 🌱 I’m currently learning C++ 
+- 👀 I’m interested in DL/ML, ML embedded development and deployment, ML lifecycle and cloud deployment
+- 🌱 I’m currently learning C++ and Go
 - 💞️ I’m looking to collaborate on #insertRandomChoiceHere
 - 📫 How to reach me ...
 
